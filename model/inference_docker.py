@@ -16,6 +16,7 @@ Image.MAX_IMAGE_PIXELS = None
 
 
 
+
 #  组织区域
 def post_process(ori_img_path):
     img_mask = Image.open(ori_img_path).convert('L')
