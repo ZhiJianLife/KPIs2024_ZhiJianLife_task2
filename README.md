@@ -6,6 +6,7 @@ We are proud to announce that our team has achieved second and third place in in
 See the [data](https://sites.google.com/view/kpis2024/data) for training and validation data.
 ## Directory list
 Create a folder by following the file directory:
+``` 
     ├── input
     ├── model
           ├── checkpoint
@@ -17,7 +18,7 @@ Create a folder by following the file directory:
           ├── ori
           ├── patch
           ├── tissue
-
+``` 
 ## Training  
 We employ ResNet101-UperNet models for training. Here are the key steps in the training process:
 
