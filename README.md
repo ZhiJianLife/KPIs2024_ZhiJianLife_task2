@@ -1,6 +1,7 @@
 # KPIs2024_ZhiJianLife_task2
 ## Congratulations 🎉🎉🎉🥳🥳🥳
-We are proud to announce that our team has achieved second and third place in instance segmentation and detection for the MICCAI 2024 KPIs 2024 Task 2. This is a significant milestone that showcases our efforts and achievements in the field of WSI-level diseased glomeruli segmentation.
+We are proud to announce that our team has achieved second and third place in instance segmentation and detection for the MICCAI 2024 KPIs 2024 Task 2. This is a significant milestone that showcases our efforts and achievements in the field of WSI-level diseased glomeruli segmentation. ![Description of image](rank.png)
+
 
 ## Dataset
 See the [data](https://sites.google.com/view/kpis2024/data) for training and validation data.
