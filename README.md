@@ -31,5 +31,7 @@ We employ ResNet101-UperNet models for training. Here are the key steps in the t
 ## Inference 
 You can directly load the weights of our model directly inference, the weights are linked [here](https://drive.google.com/file/d/1-0JU7UBY2ZIzu6UIYgNS__15dQDOUitp/view?usp=sharing). Put it under the /model/checkpoint/ directory. Note that you must follow the requirements of the input and output paths of the KPIs2024 task2, see [here](https://sites.google.com/view/kpis2024/evaluation).
 
+## Acknowledgment
+Our implementation is mainly based on [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) repositories. Thanks for the authors. In addition, we would like to thank the KPIs2024 Organizing Committee for organizing this challenge and NVIDIA for sponsoring it.
 
 
